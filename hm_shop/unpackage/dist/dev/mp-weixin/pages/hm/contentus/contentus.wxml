@@ -1,0 +1,1 @@
+<view class="contact"><map class="map" latitude="{{latitude}}" longitude="{{longitude}}" scale="11" markers="{{markers}}" show-location="{{true}}" data-event-opts="{{[['markertap',[['markertap',['$event']]]],['updated',[['mapUpdated',['$event']]]],['tap',[['closeMapMarker',['$event']]]]]}}" bindmarkertap="__e" bindupdated="__e" bindtap="__e"></map></view>

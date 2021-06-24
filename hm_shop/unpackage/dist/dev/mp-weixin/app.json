@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cart/cart",
+    "pages/news/news",
+    "pages/member/member",
+    "pages/hm/hm_chaoshi/hm_chaoshi",
+    "pages/hm/hm_video/hm_video",
+    "pages/hm/contentus/contentus",
+    "pages/hm/hm_img/hm_img"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "黑马商城",
+    "navigationBarBackgroundColor": "#c60000",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#c60000",
+    "color": "#C8C7CC",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabBar/首页.png",
+        "selectedIconPath": "static/tabBar/首页-选中.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/tabBar/购物车.png",
+        "selectedIconPath": "static/tabBar/购物车-选中.png"
+      },
+      {
+        "text": "资讯",
+        "pagePath": "pages/news/news",
+        "iconPath": "static/tabBar/资讯.png",
+        "selectedIconPath": "static/tabBar/资讯-选中.png"
+      },
+      {
+        "text": "会员",
+        "pagePath": "pages/member/member",
+        "iconPath": "static/tabBar/我的.png",
+        "selectedIconPath": "static/tabBar/我的-选中.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "测试"
+    }
+  },
+  "usingComponents": {}
+}
