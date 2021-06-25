@@ -71,27 +71,27 @@
 			{
 				"text":"首页",
 				"pagePath":"pages/index/index",
-				"iconPath":"static/tabBar/首页.png",
-				"selectedIconPath":"static/tabBar/首页-选中.png"
+				"iconPath":"static/tabBar/index.png",
+				"selectedIconPath":"static/tabBar/index-active.png"
 				
 			},
 			{
 				"text":"购物车",
 				"pagePath":"pages/cart/cart",
-				"iconPath":"static/tabBar/购物车.png",
-				"selectedIconPath":"static/tabBar/购物车-选中.png"
+				"iconPath":"static/tabBar/card.png",
+				"selectedIconPath":"static/tabBar/card-active.png"
 			},
 			{
 				"text":"资讯",
 				"pagePath":"pages/news/news",
-				"iconPath":"static/tabBar/资讯.png",
-				"selectedIconPath":"static/tabBar/资讯-选中.png"
+				"iconPath":"static/tabBar/news.png",
+				"selectedIconPath":"static/tabBar/news-active.png"
 			},
 			{
 				"text":"会员",
 				"pagePath":"pages/member/member",
-				"iconPath":"static/tabBar/我的.png",
-				"selectedIconPath":"static/tabBar/我的-选中.png"
+				"iconPath":"static/tabBar/mine.png",
+				"selectedIconPath":"static/tabBar/mine.png"
 			}
 		]
 	}

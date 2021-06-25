@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2629043 */
+  src: url('static/font_icon/iconfont.woff2?t=1624440193541') format('woff2'),
+       url('static/font_icon/iconfont.woff?t=1624440193541') format('woff'),
+       url('static/font_icon/iconfont.ttf?t=1624440193541') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-biaoqiankuozhan_chaoshi-212:before {
+  content: "\eb4e";
+}
+
+.icon-shipin:before {
+  content: "\e602";
+}
+
+.icon-lianxi:before {
+  content: "\e61e";
+}
+
+.icon-image:before {
+  content: "\e629";
+}
+
